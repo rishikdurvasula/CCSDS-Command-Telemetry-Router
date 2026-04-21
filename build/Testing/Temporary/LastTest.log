@@ -1,0 +1,19 @@
+Start testing: Apr 20 23:04 PDT
+----------------------------------------------------------
+1/1 Testing: test_space_packet
+1/1 Test: test_space_packet
+Command: "/Users/rishikdurvasula/Desktop/ccsds-router/build/test_space_packet"
+Directory: /Users/rishikdurvasula/Desktop/ccsds-router/build
+"test_space_packet" start time: Apr 20 23:04 PDT
+Output:
+----------------------------------------------------------
+All CCSDS packet codec + CRC tests passed.
+<end of output>
+Test time =   0.20 sec
+----------------------------------------------------------
+Test Passed.
+"test_space_packet" end time: Apr 20 23:04 PDT
+"test_space_packet" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 20 23:04 PDT

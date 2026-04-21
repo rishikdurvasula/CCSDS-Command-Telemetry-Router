@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libccsds_core.a CMakeFiles/ccsds_core.dir/src/crc16.cpp.o CMakeFiles/ccsds_core.dir/src/space_packet.cpp.o CMakeFiles/ccsds_core.dir/src/lossy_channel.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libccsds_core.a
